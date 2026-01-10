@@ -50,6 +50,6 @@ https://guns.lol/SrzureN
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=40&pause=1000&color=b500ff&center=true&vCenter=true&width=435&lines=I+BLEED+PIXELS" alt="I bleed pixels" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=40&pause=1000&color=8B0000&center=true&vCenter=true&width=435&lines=I+BLEED+PIXELS" alt="I bleed pixels" />
 
 </div>
